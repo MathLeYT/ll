@@ -1,0 +1,2 @@
+# ll
+scoreboard gmod
