@@ -11,6 +11,7 @@ gui.EnableScreenClicker(true)
 
 
 function scoreboard:Paint(w, h)
+return false
 
 draw.RoundedBox(9,0,0,w,h,Color(0,0,0, 200) )
 
